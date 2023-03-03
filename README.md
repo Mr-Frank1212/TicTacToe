@@ -1,2 +1,2 @@
 # Tic_Tac_Toe
-A Game just for fun 
+A tictactoe game written in python language. 
